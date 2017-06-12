@@ -17,8 +17,8 @@ Functional support for neural networks has also been added in `StackedGeneralize
 ## Example: Otto Group Product Classification Challenge
 The Otto Group Product Classification Challenge has been Kaggle's more popular competition to date with over 3500 teams competing. Here, we show a quick application of the automated stacking model.
 
-Directions: Download `train.csv`, `StackedGeneralizerN.py`, and [the test set](https://www.kaggle.com/c/otto-group-product-classification-challenge/data) and run `stacker-ex.py`.
-This example stacks the following 12 models:
+Directions: Download `train.csv`, `StackedGeneralizerN.py`, [the test set](https://www.kaggle.com/c/otto-group-product-classification-challenge/data) and run `stacker-ex.py`.
+This example combines the following 12 models:
 1. Random Forest with 100 Trees
 2. Random Forest with 500 Trees
 3. Random Forest with 1500 Trees
