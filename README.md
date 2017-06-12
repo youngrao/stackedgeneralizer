@@ -1,2 +1,2 @@
-# stackedgeneralizer
-Automated Stacked Generalization 
+## StackedGeneralizer
+# Automated Stacked Generalization 
