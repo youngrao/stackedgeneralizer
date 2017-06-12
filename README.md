@@ -14,7 +14,7 @@ This script differs from the basic idea described above in that it allows the us
 
 Functional support for neural networks has also been added in `StackedGeneralizerN.py` which assumes usage of Keras. 
 
-## Example: Otto Group Product Classification Challenge (Kaggle)
+## Example: Otto Group Product Classification Challenge
 The Otto Group Product Classification Challenge has been Kaggle's more popular competition to date with over 3500 teams competing. Here, we show a quick application of the automated stacking model.
 
 Directions: Download `train.csv` and `StackedGeneralizerN.py` and run `stacker-ex.py`.
