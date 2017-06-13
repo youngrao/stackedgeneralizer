@@ -1,6 +1,6 @@
 # StackedGeneralizer
 ## Automated Stacked Generalization 
-Stacked Generalization is a ensemble learning algorithm that combines the results of base models by training a higher-level learner on the lower level outputs. This idea was first introduced by Wolpert (1992) with the basic idea as follows:
+Stacked Generalization is a ensemble learning method that combines the results of base models by training a higher-level learner on the lower level outputs. This idea was first introduced by Wolpert (1992) with the basic idea as follows:
 
 1. Split the training set into two disjoint sets.
 2. Train several base learners on the first part.
@@ -34,4 +34,4 @@ This example combines the following 12 models:
 
 with a XGBoost as a higher-level learner. 
 
-This achieves a 0.41783 score on the private leaderboard, achieving #116th place (top 3.3 percentile)
+This achieves a 0.41783 score on the private leaderboard, achieving 116th place (top 3.3 percentile)
